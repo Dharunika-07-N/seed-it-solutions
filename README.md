@@ -4,17 +4,18 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-9%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-9-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-10%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-10-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
 - **PYTHON3**: 6 solutions
-- **C**: 3 solutions
+- **C**: 4 solutions
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-09-22 | [Q0.27 - Basic_level_1_Datatypes_7](./Problems/general/q0-27-basic-level-1-datatypes-7) | General | `Medium` | c | [View](./Problems/general/q0-27-basic-level-1-datatypes-7) |
 | 2026-09-22 | [Q0.26 - Basic_level_1_Datatypes_6](./Problems/general/q0-26-basic-level-1-datatypes-6) | General | `Medium` | c | [View](./Problems/general/q0-26-basic-level-1-datatypes-6) |
 | 2026-09-22 | [Q0.25 - Basic_level_1_Datatypes_5](./Problems/general/q0-25-basic-level-1-datatypes-5) | General | `Medium` | c | [View](./Problems/general/q0-25-basic-level-1-datatypes-5) |
 | 2026-09-22 | [Q0.24 - Basic_level_1_Datatypes_4](./Problems/general/q0-24-basic-level-1-datatypes-4) | General | `Medium` | python3 | [View](./Problems/general/q0-24-basic-level-1-datatypes-4) |
@@ -28,8 +29,9 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (9 Problems)</b></summary>
+<summary><b>📁 General (10 Problems)</b></summary>
 
+- [Q0.27 - Basic_level_1_Datatypes_7](./Problems/general/q0-27-basic-level-1-datatypes-7) — `Medium`
 - [Q0.26 - Basic_level_1_Datatypes_6](./Problems/general/q0-26-basic-level-1-datatypes-6) — `Medium`
 - [Q0.25 - Basic_level_1_Datatypes_5](./Problems/general/q0-25-basic-level-1-datatypes-5) — `Medium`
 - [Q0.24 - Basic_level_1_Datatypes_4](./Problems/general/q0-24-basic-level-1-datatypes-4) — `Medium`
