@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-22T15:47:20.258Z",
+  "lastSynced": "2026-09-22T16:36:16.745Z",
   "problems": {
     "Q0.18": {
       "questionId": "Q0.18",
@@ -133,6 +133,17 @@
         "python3"
       ],
       "lastSolvedAt": "2026-09-22T15:47:20.258Z"
+    },
+    "Q0.30": {
+      "questionId": "Q0.30",
+      "title": "Basic_level_1_Datatypes_10",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-30-basic-level-1-datatypes-10",
+      "languages": [
+        "python3"
+      ],
+      "lastSolvedAt": "2026-09-22T16:36:16.745Z"
     }
   }
 }
