@@ -4,17 +4,18 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-14%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-14-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-15%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-15-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
-- **PYTHON3**: 10 solutions
+- **PYTHON3**: 11 solutions
 - **C**: 4 solutions
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-09-23 | [Q0.34 - Basic_Level_0_Conditional_Statements_3](./Problems/general/q0-34-basic-level-0-conditional-statements-3) | General | `Medium` | python3 | [View](./Problems/general/q0-34-basic-level-0-conditional-statements-3) |
 | 2026-09-22 | [Q0.31 - Basic_Level_1_Datatypes_11](./Problems/general/q0-31-basic-level-1-datatypes-11) | General | `Medium` | python3 | [View](./Problems/general/q0-31-basic-level-1-datatypes-11) |
 | 2026-09-22 | [Q0.30 - Basic_level_1_Datatypes_10](./Problems/general/q0-30-basic-level-1-datatypes-10) | General | `Medium` | python3 | [View](./Problems/general/q0-30-basic-level-1-datatypes-10) |
 | 2026-09-22 | [Q0.29 - Basic_level_1_Datatypes_9](./Problems/general/q0-29-basic-level-1-datatypes-9) | General | `Medium` | python3 | [View](./Problems/general/q0-29-basic-level-1-datatypes-9) |
@@ -33,8 +34,9 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (14 Problems)</b></summary>
+<summary><b>📁 General (15 Problems)</b></summary>
 
+- [Q0.34 - Basic_Level_0_Conditional_Statements_3](./Problems/general/q0-34-basic-level-0-conditional-statements-3) — `Medium`
 - [Q0.31 - Basic_Level_1_Datatypes_11](./Problems/general/q0-31-basic-level-1-datatypes-11) — `Medium`
 - [Q0.30 - Basic_level_1_Datatypes_10](./Problems/general/q0-30-basic-level-1-datatypes-10) — `Medium`
 - [Q0.29 - Basic_level_1_Datatypes_9](./Problems/general/q0-29-basic-level-1-datatypes-9) — `Medium`
