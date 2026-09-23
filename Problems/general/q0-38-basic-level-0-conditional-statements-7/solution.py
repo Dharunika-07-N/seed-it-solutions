@@ -1,0 +1,17 @@
+"""
+Problem: Q0.38 - Basic_Level_0_Conditional_Statements_7
+Category: General
+Difficulty: Medium
+Platform: SEED-IT Platform (https://seed-it.com)
+Date Solved: 2026-09-23
+Language: python3
+Test Cases: 30 / 30 Passed (100%)
+"""
+
+num1 , num2 , num3 = map(int,input().split(":"))
+if num1>12:
+    print("Not Valid")
+elif num2 > 60:
+    print("Not Valid")
+else:
+    print("Valid")
