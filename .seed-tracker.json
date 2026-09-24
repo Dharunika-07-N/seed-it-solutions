@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-24T17:06:35.437Z",
+  "lastSynced": "2026-09-24T17:15:03.819Z",
   "problems": {
     "Q0.18": {
       "questionId": "Q0.18",
@@ -298,6 +298,17 @@
         "python3"
       ],
       "lastSolvedAt": "2026-09-24T17:06:35.437Z"
+    },
+    "Q0.46": {
+      "questionId": "Q0.46",
+      "title": "Basic_Level_1_Conditional_Statements_5",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-46-basic-level-1-conditional-statements-5",
+      "languages": [
+        "python3"
+      ],
+      "lastSolvedAt": "2026-09-24T17:15:03.819Z"
     }
   }
 }
