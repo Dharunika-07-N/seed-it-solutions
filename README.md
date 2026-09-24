@@ -4,17 +4,18 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-29%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-29-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-30%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-30-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
-- **PYTHON3**: 25 solutions
+- **PYTHON3**: 26 solutions
 - **C**: 4 solutions
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-09-24 | [Q0.48 - Basic_Level_1_Conditional_Statements_7](./Problems/general/q0-48-basic-level-1-conditional-statements-7) | General | `Medium` | python3 | [View](./Problems/general/q0-48-basic-level-1-conditional-statements-7) |
 | 2026-09-24 | [Q0.47 - Basic_Level_1_Conditional_Statements_6](./Problems/general/q0-47-basic-level-1-conditional-statements-6) | General | `Medium` | python3 | [View](./Problems/general/q0-47-basic-level-1-conditional-statements-6) |
 | 2026-09-24 | [Q0.46 - Basic_Level_1_Conditional_Statements_5](./Problems/general/q0-46-basic-level-1-conditional-statements-5) | General | `Medium` | python3 | [View](./Problems/general/q0-46-basic-level-1-conditional-statements-5) |
 | 2026-09-24 | [Q0.45 - Basic_Level_1_Conditional_Statements_4](./Problems/general/q0-45-basic-level-1-conditional-statements-4) | General | `Medium` | python3 | [View](./Problems/general/q0-45-basic-level-1-conditional-statements-4) |
@@ -34,13 +35,13 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 | 2026-09-22 | [Q0.31 - Basic_Level_1_Datatypes_11](./Problems/general/q0-31-basic-level-1-datatypes-11) | General | `Medium` | python3 | [View](./Problems/general/q0-31-basic-level-1-datatypes-11) |
 | 2026-09-22 | [Q0.30 - Basic_level_1_Datatypes_10](./Problems/general/q0-30-basic-level-1-datatypes-10) | General | `Medium` | python3 | [View](./Problems/general/q0-30-basic-level-1-datatypes-10) |
 | 2026-09-22 | [Q0.29 - Basic_level_1_Datatypes_9](./Problems/general/q0-29-basic-level-1-datatypes-9) | General | `Medium` | python3 | [View](./Problems/general/q0-29-basic-level-1-datatypes-9) |
-| 2026-09-22 | [Q0.27 - Basic_level_1_Datatypes_7](./Problems/general/q0-27-basic-level-1-datatypes-7) | General | `Medium` | c | [View](./Problems/general/q0-27-basic-level-1-datatypes-7) |
 
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (29 Problems)</b></summary>
+<summary><b>📁 General (30 Problems)</b></summary>
 
+- [Q0.48 - Basic_Level_1_Conditional_Statements_7](./Problems/general/q0-48-basic-level-1-conditional-statements-7) — `Medium`
 - [Q0.47 - Basic_Level_1_Conditional_Statements_6](./Problems/general/q0-47-basic-level-1-conditional-statements-6) — `Medium`
 - [Q0.46 - Basic_Level_1_Conditional_Statements_5](./Problems/general/q0-46-basic-level-1-conditional-statements-5) — `Medium`
 - [Q0.45 - Basic_Level_1_Conditional_Statements_4](./Problems/general/q0-45-basic-level-1-conditional-statements-4) — `Medium`
