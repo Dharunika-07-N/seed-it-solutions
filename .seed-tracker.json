@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-27T11:47:22.504Z",
+  "lastSynced": "2026-09-27T13:19:02.227Z",
   "problems": {
     "Q0.18": {
       "questionId": "Q0.18",
@@ -452,6 +452,17 @@
         "python3"
       ],
       "lastSolvedAt": "2026-09-27T11:47:22.503Z"
+    },
+    "Q0.61": {
+      "questionId": "Q0.61",
+      "title": "Basic_Level_0_Looping_10",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-61-basic-level-0-looping-10",
+      "languages": [
+        "python3"
+      ],
+      "lastSolvedAt": "2026-09-27T13:19:02.227Z"
     }
   }
 }
