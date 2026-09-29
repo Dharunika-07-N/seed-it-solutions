@@ -4,17 +4,18 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-52%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-52-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-53%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-53-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
-- **PYTHON3**: 48 solutions
+- **PYTHON3**: 49 solutions
 - **C**: 4 solutions
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-09-29 | [Q0.144 - Basic_Level_0_Arrays_2](./Problems/general/q0-144-basic-level-0-arrays-2) | General | `Medium` | python3 | [View](./Problems/general/q0-144-basic-level-0-arrays-2) |
 | 2026-09-29 | [Q0.143 - Basic_Level_0_Arrays_1](./Problems/general/q0-143-basic-level-0-arrays-1) | General | `Medium` | python3 | [View](./Problems/general/q0-143-basic-level-0-arrays-1) |
 | 2026-09-29 | [Q0.70 - Basic_Level_1_Looping_9](./Problems/general/q0-70-basic-level-1-looping-9) | General | `Medium` | python3 | [View](./Problems/general/q0-70-basic-level-1-looping-9) |
 | 2026-09-29 | [Q0.69 - Basic_Level_1_Looping_8](./Problems/general/q0-69-basic-level-1-looping-8) | General | `Medium` | python3 | [View](./Problems/general/q0-69-basic-level-1-looping-8) |
@@ -34,13 +35,13 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 | 2026-09-25 | [Q0.55 - Basic_Level_0_Looping_4](./Problems/general/q0-55-basic-level-0-looping-4) | General | `Medium` | python3 | [View](./Problems/general/q0-55-basic-level-0-looping-4) |
 | 2026-09-25 | [Q0.53 - Basic_Level_0_Looping_2](./Problems/general/q0-53-basic-level-0-looping-2) | General | `Medium` | python3 | [View](./Problems/general/q0-53-basic-level-0-looping-2) |
 | 2026-09-25 | [Q0.52 - Basic_Level_0_Looping_1](./Problems/general/q0-52-basic-level-0-looping-1) | General | `Medium` | python3 | [View](./Problems/general/q0-52-basic-level-0-looping-1) |
-| 2026-09-25 | [Q0.51 - Basic_Level_1_Conditional_Statements_10](./Problems/general/q0-51-basic-level-1-conditional-statements-10) | General | `Medium` | python3 | [View](./Problems/general/q0-51-basic-level-1-conditional-statements-10) |
 
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (52 Problems)</b></summary>
+<summary><b>📁 General (53 Problems)</b></summary>
 
+- [Q0.144 - Basic_Level_0_Arrays_2](./Problems/general/q0-144-basic-level-0-arrays-2) — `Medium`
 - [Q0.143 - Basic_Level_0_Arrays_1](./Problems/general/q0-143-basic-level-0-arrays-1) — `Medium`
 - [Q0.70 - Basic_Level_1_Looping_9](./Problems/general/q0-70-basic-level-1-looping-9) — `Medium`
 - [Q0.69 - Basic_Level_1_Looping_8](./Problems/general/q0-69-basic-level-1-looping-8) — `Medium`
