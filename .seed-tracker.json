@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-30T17:22:58.622Z",
+  "lastSynced": "2026-10-02T17:57:36.178Z",
   "problems": {
     "Q0.18": {
       "questionId": "Q0.18",
@@ -606,6 +606,17 @@
         "python3"
       ],
       "lastSolvedAt": "2026-09-30T17:22:58.622Z"
+    },
+    "Q0.71": {
+      "questionId": "Q0.71",
+      "title": "Decimal to Binary Conversion",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-71-decimal-to-binary-conversion",
+      "languages": [
+        "java"
+      ],
+      "lastSolvedAt": "2026-10-02T17:57:36.178Z"
     }
   }
 }
