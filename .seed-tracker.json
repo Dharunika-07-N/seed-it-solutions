@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-10-03T16:40:29.124Z",
+  "lastSynced": "2026-10-03T16:55:27.458Z",
   "problems": {
     "Q0.18": {
       "questionId": "Q0.18",
@@ -639,6 +639,17 @@
         "java"
       ],
       "lastSolvedAt": "2026-10-03T16:40:29.124Z"
+    },
+    "Q0.149": {
+      "questionId": "Q0.149",
+      "title": "Subtracting Triangular Numbers from Total",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-149-subtracting-triangular-numbers-from-total",
+      "languages": [
+        "java"
+      ],
+      "lastSolvedAt": "2026-10-03T16:55:27.458Z"
     }
   }
 }
