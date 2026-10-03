@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-10-02T17:57:36.178Z",
+  "lastSynced": "2026-10-03T16:27:02.622Z",
   "problems": {
     "Q0.18": {
       "questionId": "Q0.18",
@@ -617,6 +617,17 @@
         "java"
       ],
       "lastSolvedAt": "2026-10-02T17:57:36.178Z"
+    },
+    "Q0.145": {
+      "questionId": "Q0.145",
+      "title": "Print Array in Reverse Order",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-145-print-array-in-reverse-order",
+      "languages": [
+        "java"
+      ],
+      "lastSolvedAt": "2026-10-03T16:27:02.622Z"
     }
   }
 }
