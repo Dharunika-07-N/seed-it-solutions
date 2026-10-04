@@ -4,18 +4,20 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-58%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-58-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-60%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-60-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
-- **PYTHON3**: 51 solutions
+- **PYTHON3**: 52 solutions
+- **JAVA**: 4 solutions
 - **C**: 4 solutions
-- **JAVA**: 3 solutions
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-10-04 | [Q0.72 - Solid Square Star Pattern](./Problems/general/q0-72-solid-square-star-pattern) | General | `Medium` | python3 | [View](./Problems/general/q0-72-solid-square-star-pattern) |
+| 2026-10-03 | [Q0.149 - Subtracting Triangular Numbers from Total](./Problems/general/q0-149-subtracting-triangular-numbers-from-total) | General | `Medium` | java | [View](./Problems/general/q0-149-subtracting-triangular-numbers-from-total) |
 | 2026-10-03 | [Q0.148 - Descending Consecutive Sequence from Total Sum](./Problems/general/q0-148-descending-consecutive-sequence-from-total-sum) | General | `Medium` | java | [View](./Problems/general/q0-148-descending-consecutive-sequence-from-total-sum) |
 | 2026-10-03 | [Q0.145 - Print Array in Reverse Order](./Problems/general/q0-145-print-array-in-reverse-order) | General | `Medium` | java | [View](./Problems/general/q0-145-print-array-in-reverse-order) |
 | 2026-10-02 | [Q0.71 - Decimal to Binary Conversion](./Problems/general/q0-71-decimal-to-binary-conversion) | General | `Medium` | java | [View](./Problems/general/q0-71-decimal-to-binary-conversion) |
@@ -34,14 +36,14 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 | 2026-09-27 | [Q0.62 - Basic_Level_1_Looping_1](./Problems/general/q0-62-basic-level-1-looping-1) | General | `Medium` | python3 | [View](./Problems/general/q0-62-basic-level-1-looping-1) |
 | 2026-09-27 | [Q0.61 - Basic_Level_0_Looping_10](./Problems/general/q0-61-basic-level-0-looping-10) | General | `Medium` | python3 | [View](./Problems/general/q0-61-basic-level-0-looping-10) |
 | 2026-09-27 | [Q0.60 - Basic_Level_0_Looping_9](./Problems/general/q0-60-basic-level-0-looping-9) | General | `Medium` | python3 | [View](./Problems/general/q0-60-basic-level-0-looping-9) |
-| 2026-09-27 | [Q0.59 - Basic_Level_0_Looping_8](./Problems/general/q0-59-basic-level-0-looping-8) | General | `Medium` | python3 | [View](./Problems/general/q0-59-basic-level-0-looping-8) |
-| 2026-09-27 | [Q0.58 - Basic_Level_0_Looping_7](./Problems/general/q0-58-basic-level-0-looping-7) | General | `Medium` | python3 | [View](./Problems/general/q0-58-basic-level-0-looping-7) |
 
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (58 Problems)</b></summary>
+<summary><b>📁 General (60 Problems)</b></summary>
 
+- [Q0.72 - Solid Square Star Pattern](./Problems/general/q0-72-solid-square-star-pattern) — `Medium`
+- [Q0.149 - Subtracting Triangular Numbers from Total](./Problems/general/q0-149-subtracting-triangular-numbers-from-total) — `Medium`
 - [Q0.148 - Descending Consecutive Sequence from Total Sum](./Problems/general/q0-148-descending-consecutive-sequence-from-total-sum) — `Medium`
 - [Q0.145 - Print Array in Reverse Order](./Problems/general/q0-145-print-array-in-reverse-order) — `Medium`
 - [Q0.71 - Decimal to Binary Conversion](./Problems/general/q0-71-decimal-to-binary-conversion) — `Medium`
