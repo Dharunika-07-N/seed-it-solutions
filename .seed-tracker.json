@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-10-04T16:29:21.820Z",
+  "lastSynced": "2026-10-05T17:51:27.124Z",
   "problems": {
     "Q0.18": {
       "questionId": "Q0.18",
@@ -661,6 +661,17 @@
         "python3"
       ],
       "lastSolvedAt": "2026-10-04T16:29:21.820Z"
+    },
+    "Q0.73": {
+      "questionId": "Q0.73",
+      "title": "Solid Rectangle Star Pattern",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-73-solid-rectangle-star-pattern",
+      "languages": [
+        "python3"
+      ],
+      "lastSolvedAt": "2026-10-05T17:51:27.124Z"
     }
   }
 }
