@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-10-05T17:51:27.124Z",
+  "lastSynced": "2026-10-06T17:27:33.481Z",
   "problems": {
     "Q0.18": {
       "questionId": "Q0.18",
@@ -672,6 +672,17 @@
         "python3"
       ],
       "lastSolvedAt": "2026-10-05T17:51:27.124Z"
+    },
+    "Q0.74": {
+      "questionId": "Q0.74",
+      "title": "Right Angled Triangle Star Pattern",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-74-right-angled-triangle-star-pattern",
+      "languages": [
+        "python3"
+      ],
+      "lastSolvedAt": "2026-10-06T17:27:33.481Z"
     }
   }
 }
