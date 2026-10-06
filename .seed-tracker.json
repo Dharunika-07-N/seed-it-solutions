@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-10-06T17:27:33.481Z",
+  "lastSynced": "2026-10-06T17:29:34.858Z",
   "problems": {
     "Q0.18": {
       "questionId": "Q0.18",
@@ -683,6 +683,17 @@
         "python3"
       ],
       "lastSolvedAt": "2026-10-06T17:27:33.481Z"
+    },
+    "Q0.75": {
+      "questionId": "Q0.75",
+      "title": "Inverted Right Triangle Star Pattern",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-75-inverted-right-triangle-star-pattern",
+      "languages": [
+        "python3"
+      ],
+      "lastSolvedAt": "2026-10-06T17:29:34.858Z"
     }
   }
 }
