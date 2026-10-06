@@ -4,11 +4,11 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-62%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-62-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-63%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-63-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
-- **PYTHON3**: 54 solutions
+- **PYTHON3**: 55 solutions
 - **JAVA**: 4 solutions
 - **C**: 4 solutions
 
@@ -16,6 +16,7 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-10-06 | [Q0.75 - Inverted Right Triangle Star Pattern](./Problems/general/q0-75-inverted-right-triangle-star-pattern) | General | `Medium` | python3 | [View](./Problems/general/q0-75-inverted-right-triangle-star-pattern) |
 | 2026-10-06 | [Q0.74 - Right Angled Triangle Star Pattern](./Problems/general/q0-74-right-angled-triangle-star-pattern) | General | `Medium` | python3 | [View](./Problems/general/q0-74-right-angled-triangle-star-pattern) |
 | 2026-10-05 | [Q0.73 - Solid Rectangle Star Pattern](./Problems/general/q0-73-solid-rectangle-star-pattern) | General | `Medium` | python3 | [View](./Problems/general/q0-73-solid-rectangle-star-pattern) |
 | 2026-10-04 | [Q0.72 - Solid Square Star Pattern](./Problems/general/q0-72-solid-square-star-pattern) | General | `Medium` | python3 | [View](./Problems/general/q0-72-solid-square-star-pattern) |
@@ -35,13 +36,13 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 | 2026-09-27 | [Q0.65 - Basic_Level_1_Looping_4](./Problems/general/q0-65-basic-level-1-looping-4) | General | `Medium` | python3 | [View](./Problems/general/q0-65-basic-level-1-looping-4) |
 | 2026-09-27 | [Q0.64 - Basic_Level_1_Looping_3](./Problems/general/q0-64-basic-level-1-looping-3) | General | `Medium` | python3 | [View](./Problems/general/q0-64-basic-level-1-looping-3) |
 | 2026-09-27 | [Q0.63 - Basic_Level_1_Looping_2](./Problems/general/q0-63-basic-level-1-looping-2) | General | `Medium` | python3 | [View](./Problems/general/q0-63-basic-level-1-looping-2) |
-| 2026-09-27 | [Q0.62 - Basic_Level_1_Looping_1](./Problems/general/q0-62-basic-level-1-looping-1) | General | `Medium` | python3 | [View](./Problems/general/q0-62-basic-level-1-looping-1) |
 
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (62 Problems)</b></summary>
+<summary><b>📁 General (63 Problems)</b></summary>
 
+- [Q0.75 - Inverted Right Triangle Star Pattern](./Problems/general/q0-75-inverted-right-triangle-star-pattern) — `Medium`
 - [Q0.74 - Right Angled Triangle Star Pattern](./Problems/general/q0-74-right-angled-triangle-star-pattern) — `Medium`
 - [Q0.73 - Solid Rectangle Star Pattern](./Problems/general/q0-73-solid-rectangle-star-pattern) — `Medium`
 - [Q0.72 - Solid Square Star Pattern](./Problems/general/q0-72-solid-square-star-pattern) — `Medium`
